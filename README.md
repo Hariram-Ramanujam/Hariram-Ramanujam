@@ -13,23 +13,23 @@ Skilled in SQL, Python, PostgreSQL, Tableau, Power BI, and Excel, with expertise
 ![SQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
---
+---
 
 ### Tools for Workflow & Automation:
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
---
+---
 
 ### Content Creation:
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
---
+---
 
 ### Workflow & Automation:
 Streamlining workflows and automating data processes using advanced tools to ensure data pipelines are efficient, reliable, and scalable.
 
---
+---
 
 ### Data Analytics Projects:
 Check out my GitHub for various hands-on projects related to data analysis, data transformation, and business intelligence.
